@@ -57,7 +57,7 @@ An autonomous underwriting desk: AI agents stake their own capital rating real-w
 <a href="https://github.com/ALFA117/AVS-Mou"><img src="https://github.com/ALFA117/AVS-Mou/raw/main/docs/img/hero.jpg" alt="Anonymous Venture Syndicate" /></a>
 <h3><a href="https://github.com/ALFA117/AVS-Mou">Anonymous Venture Syndicate</a></h3>
 Private sealed-bid venture syndicates on Solana using MagicBlock Ephemeral Rollups.<br/>
-<sub>Solana · Anchor · MagicBlock · Next.js</sub>
+<sub>Solana · Anchor · MagicBlock · <b>Solana Blitz V7</b></sub>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ A noir amnesia platformer where an AI narrator writes your memory fragments; fin
 | [kipu-anon](https://github.com/ALFA117/kipu-anon) | Deterministic pseudonymization of a payments corpus | 🟢 |
 | [Crystal-Vanilla](https://github.com/ALFA117/Crystal-Vanilla) | Production calculator for manufacturing runs | 🟡 |
 | [Flor-de-SIL](https://github.com/ALFA117/Flor-de-SIL) | Flower-arrangement catalog with admin panel | 🟡 |
-| [ALFA_EDG](https://github.com/ALFA117/ALFA_EDG) | This portfolio: every project, live | 🟢 |
+| [ALFA_EDG](https://github.com/ALFA117/ALFA_EDG) | This portfolio: 38 projects with links and real status, ES/EN | 🟢 |
 
 ---
 
