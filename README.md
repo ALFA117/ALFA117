@@ -8,7 +8,7 @@ I build things that move real value: contracts as the only authority, AI that is
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alfa--edg.vercel.app-111?style=for-the-badge&logo=vercel&logoColor=white)](https://alfa-edg.vercel.app)
 [![X](https://img.shields.io/badge/@ALFA__EDG-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ALFA_EDG)
-[![Instagram](https://img.shields.io/badge/@alfa__edg__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfa_edg_/)
+[![Instagram](https://img.shields.io/badge/@alfa__edg.mou_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfa_edg_/)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
